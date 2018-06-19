@@ -35,7 +35,7 @@ public class MyStepdefs {
 
         @After
         public void afterScenario() throws Throwable {
-//            driver.quit();
+            driver.quit();
         }
 
         @Given("^I am on the home page$")

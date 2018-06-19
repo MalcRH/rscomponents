@@ -1,0 +1,4 @@
+RunCukesTest.class
+pageObjects/Search.class
+pageObjects/PurchaseJourney.class
+step_definitions/MyStepdefs.class
